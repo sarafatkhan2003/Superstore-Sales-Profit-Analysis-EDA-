@@ -79,7 +79,7 @@ superstore-eda/
 ├── notebooks/
 │   └── superstore_eda.ipynb
 │
-├── visuals/
+├── outputs/
 │   └── key_charts/
 │
 ├── README.md
@@ -177,8 +177,8 @@ jupyter notebook notebooks/superstore_eda.ipynb
 
 **Md Sarafat Khan**
 Data Analyst | Aspiring Data Scientist
-📧 Email: [sarafatkhanbara2003@gmail.com](mailto:sarafatkhanbara2003@gmail.com)
-🔗 LinkedIn: [https://https://www.linkedin.com/in/sarafatkhan2003](https://https://www.linkedin.com/in/sarafatkhan2003)
+- 📧 Email: [sarafatkhanbara2003@gmail.com](mailto:sarafatkhanbara2003@gmail.com)
+- 🔗 LinkedIn: [https://https://www.linkedin.com/in/sarafatkhan2003](https://https://www.linkedin.com/in/sarafatkhan2003)
 
 ---
 
