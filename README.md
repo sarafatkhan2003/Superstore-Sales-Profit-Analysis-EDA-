@@ -176,7 +176,7 @@ jupyter notebook notebooks/superstore_eda.ipynb
 ## 👤 Author
 
 **Md Sarafat Khan**
-Data Analyst | Aspiring Data Scientist
+- Data Analyst | Aspiring Data Scientist
 - 📧 Email: [sarafatkhanbara2003@gmail.com](mailto:sarafatkhanbara2003@gmail.com)
 - 🔗 LinkedIn: [https://https://www.linkedin.com/in/sarafatkhan2003](https://https://www.linkedin.com/in/sarafatkhan2003)
 
